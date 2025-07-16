@@ -17,5 +17,6 @@ gsap.to(".card", {
         yoyo: true,
         duration: 1,
       });
+
     },
   });
